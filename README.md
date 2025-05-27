@@ -1,16 +1,29 @@
-# todo_app
+# ✅ Flutter ToDo App
 
-A new Flutter project.
+This is a simple ToDo app made with Flutter.  
+It uses [Hive](https://pub.dev/packages/hive) to save data on the phone.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- Add new tasks
+- Mark tasks as done
+- Delete tasks
+- Save data with Hive (no internet needed)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧱 Used Packages
+- `hive`
+- `hive_flutter`
+- `path_provider`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧰 How to Run
+
+1. Clone this repo:
+```bash
+git clone https://github.com/reyhanyanikoglu/todo_with_hive_flutter.git
+flutter pub get
+flutter run
