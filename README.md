@@ -1,7 +1,8 @@
 # ✅ Flutter ToDo App
 
 This is a simple ToDo app made with Flutter.  
-It uses [Hive](https://pub.dev/packages/hive) to save data on the phone.
+This app uses Hive for local storage. Your tasks will not be lost when you close and open the app again — they are saved on your phone.
+
 
 ---
 
