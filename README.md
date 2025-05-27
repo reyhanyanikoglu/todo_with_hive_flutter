@@ -27,6 +27,7 @@ It uses [Hive](https://pub.dev/packages/hive) to save data on the phone.
 git clone https://github.com/reyhanyanikoglu/todo_with_hive_flutter.git
 flutter pub get
 flutter run
+```
 
 ---
 
