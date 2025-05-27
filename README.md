@@ -27,3 +27,12 @@ It uses [Hive](https://pub.dev/packages/hive) to save data on the phone.
 git clone https://github.com/reyhanyanikoglu/todo_with_hive_flutter.git
 flutter pub get
 flutter run
+
+---
+
+## 📸 Screenshots
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/flutter-todo-images/add-task.png" alt="Reyhan's GIF" width="200"/>
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/flutter-todo-images/home.png" alt="Reyhan's GIF" width="200"/>
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/flutter-todo-images/delete.png" alt="Reyhan's GIF" width="200"/>
+
+
